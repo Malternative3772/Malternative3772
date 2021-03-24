@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a guy from Baden-Württemberg, Germany who likes Linux, coding and computers in general.
+I'm currently using Solus as my daily-driver.
 <!--
 **Malternative3772/Malternative3772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

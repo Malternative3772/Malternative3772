@@ -8,8 +8,7 @@ LinuxGuides OS. An operating system made for the Community of the german Youtube
 (It's all in german tho)
 
 - 🌱 I’m currently learning:
-Java
-Python
+Java, Python
 
 <!--
 **Malternative3772/Malternative3772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

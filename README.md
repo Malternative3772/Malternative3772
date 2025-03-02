@@ -1,7 +1,6 @@
 ### Hi there 👋
-I use arch
-I play Osu!
-is there anything more I need to say?
+
+I really like my Fedora KDE setup!
 
 <!--
 **Malternative3772/Malternative3772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
